@@ -4,4 +4,4 @@ This plugin is a thin wrapper for [Google Maps Android API](https://developers.g
 Both [PhoneGap](http://phonegap.com/) and [Apache Cordova](http://cordova.apache.org/) are supported.
 
 
-[Original Repo ===>](https://github.com/mapsplugin/cordova-plugin-googlemaps)
+[===> Original Repo <===](https://github.com/mapsplugin/cordova-plugin-googlemaps)
